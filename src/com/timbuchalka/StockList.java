@@ -13,6 +13,7 @@ import java.util.Map;
  * Copyright (c) 2015-2016
  * Contact author at:  http://timbuchalka.com
  * 
+ * This is a test line
  */
 public class StockList {
     private final Map<String, StockItem> list;
